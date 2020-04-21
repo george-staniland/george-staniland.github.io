@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+h1 {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px
+}
+#intro-text{
+    position: relative;
+    padding: 100px
+
+    
+   
+  }
