@@ -41,7 +41,7 @@ a {
   text-align: center;
   max-width: 500px;
   position: relative;
-  margin: 10% auto 30%;
+  margin: 10% auto 20%;
   border-style: dashed;
   border-color: bisque;
   border-width: 10px;
@@ -68,7 +68,7 @@ a {
  #posts-container {
    height: 200px;
    max-width: 80%;
-   margin: 50px auto 10px;
+   margin: 50px auto 500px;
  }
 
  #posts-col-1 {
@@ -88,3 +88,27 @@ a {
    text-align: center;
 
  }
+
+
+ header {
+  height: 100px;
+  margin: 40px;
+}
+
+#blog-button {
+  float: right;
+  width: 140px;
+  text-align: center;
+}
+
+#home-button {
+ float: right;
+ width: 140px;
+ text-align: center;
+}
+
+#gs-header {
+ float: left;
+ width: 400px;
+ text-align: center;
+}

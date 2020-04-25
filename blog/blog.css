@@ -97,3 +97,28 @@ a {
    text-align: center;
 
  }
+
+
+ 
+ header {
+   height: 100px;
+   margin: 40px;
+ }
+
+ #blog-button {
+   float: right;
+   width: 140px;
+   text-align: center;
+ }
+
+ #home-button {
+  float: right;
+  width: 140px;
+  text-align: center;
+ }
+
+ #gs-header {
+  float: left;
+  width: 400px;
+  text-align: center;
+ }
