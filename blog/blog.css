@@ -19,15 +19,14 @@ H3 {
   color:black;
   font-family: 'Open Sans', sans-serif;
   font-size: 31px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 H4 {
   color:black;
   font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
-  font-weight: 200;
-  background-color: cornsilk;
+  font-size: 23px;
+  font-weight: 600;
 }
 
 b {
@@ -42,10 +41,10 @@ letter-spacing: 0.7px;
 }
 
 p {
-  color:black;
+  color: black;
   font-family: 'Open Sans', sans-serif;
   font-size: 21px;
-  font-weight: 400;
+  font-weight: 100;
   line-height: 1.5;
 }
 
