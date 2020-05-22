@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 H1 {
     color:blue;
     font-family: 'Open Sans', sans-serif;
@@ -30,12 +31,6 @@ li {
   padding: 2px;
 }
 
-a {
-  color: blue;
-  text-decoration: none;
-  font-stretch: expanded;
-}
-
 #splash-text {
   text-align: center;
   max-width: 500px;
@@ -46,40 +41,51 @@ a {
   border-width: 10px;
   padding: 20px;
   
-  
 }
 
-#div-1 {
+
+a {
+  color:blue;
+  text-decoration: none;
 }
+
+
+
+#div-2 {
+display: flex;
+justify-content: center;
+
+}
+
 
 #posts-header {
   max-width: 300px;
-  position: relative;
-  margin: 8% auto 0px;
   text-align: center;
   border-style: dashed;
   border-color: bisque;
   border-width: 10px;
-  padding: 10px 8px;
+  padding: 10px 20px 10px;
  }
 
 
  #posts-container {
    height: 200px;
-   max-width: 80%;
-   margin: 50px auto 500px;
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+
+   
  }
 
  #posts-col-1 {
-   width: 50%;
-   float: left;
-   height: 50px;
+   margin: 20px;
+
+   
  }
 
  #posts-col-2 {
-   width: 50%;
-   float: right;
-   height: 50px;
+  margin: 20px;
+  
  }
 
  ul {
